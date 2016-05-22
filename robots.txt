@@ -1,4 +1,4 @@
-Sitemap: https://henrilin28.github.io/blog/sitemapindex.xml
+Sitemap: https://henrilin28.github.io/blog_nikola/sitemapindex.xml
 
 User-Agent: *
 Host: henrilin28.github.io
