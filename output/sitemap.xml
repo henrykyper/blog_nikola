@@ -10,10 +10,6 @@
   <lastmod>2016-05-22T03:49:00Z</lastmod>
  </url>
  <url>
-  <loc>http://henrykyper.github.io/blog_nikola/2012/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
- </url>
- <url>
   <loc>http://henrykyper.github.io/blog_nikola/2016/</loc>
   <lastmod>2016-05-22T03:49:00Z</lastmod>
  </url>
@@ -22,44 +18,12 @@
   <lastmod>2016-05-22T07:41:00Z</lastmod>
  </url>
  <url>
-  <loc>http://henrykyper.github.io/blog_nikola/authors/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/authors/henry-lin-kyper/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/authors/roberto-alsina/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
- </url>
- <url>
   <loc>http://henrykyper.github.io/blog_nikola/categories/</loc>
-  <lastmod>2016-05-22T03:55:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/categories/blog/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/categories/cat_nikola/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/categories/demo/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T07:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/categories/mathjax/</loc>
   <lastmod>2016-05-22T03:55:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/categories/nikola/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/categories/python/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/galleries/</loc>
@@ -84,10 +48,6 @@
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/</loc>
   <lastmod>2016-05-22T03:49:00Z</lastmod>
- </url>
- <url>
-  <loc>http://henrykyper.github.io/blog_nikola/posts/welcome-to-nikola/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/about-nikola/</loc>

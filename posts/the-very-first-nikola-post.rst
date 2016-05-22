@@ -28,7 +28,7 @@ Code Block Section
 Here are some remarkable equations
 
 An Identity of Ramanujan
----------------------
+-------------------------
 
 .. math::
 
