@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Henry Lin @ Kyper"  # (translatable)
 BLOG_TITLE = "Kyper News"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://henrilin28.github.io/blog/"
+SITE_URL = "https://henrilin28.github.io/blog_nikola/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://henrilin28.github.io/blog/"
