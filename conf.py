@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Henry Lin @ Kyper"  # (translatable)
 BLOG_TITLE = "Kyper News"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://henrilin28.github.io/blog_nikola/"
+SITE_URL = "http://henrykyper.github.io/blog_nikola/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://henrilin28.github.io/blog/"
@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
