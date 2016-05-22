@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/categories/blog.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/categories/blog.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/categories/cat_nikola.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/categories/cat_nikola.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/categories/demo.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/categories/demo.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/categories/nikola.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/categories/nikola.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/categories/python.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/categories/python.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/galleries/demo/rss.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/galleries/demo/rss.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/galleries/rss.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/galleries/rss.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/rss.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/rss.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://henrilin28.github.io/blog/sitemap.xml</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <loc>https://henrilin28.github.io/blog_nikola/sitemap.xml</loc>
+  <lastmod>2016-05-22T03:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
