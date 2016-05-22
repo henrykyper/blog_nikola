@@ -1,7 +1,7 @@
 .. title: The very first nikola post
 .. slug: the-very-first-nikola-post
 .. date: 2016-05-21 23:41:39 UTC-04:00
-.. tags:  mathjax
+.. tags: 
 .. category: 
 .. link: 
 .. description: 
@@ -32,15 +32,14 @@ An Identity of Ramanujan
 
 .. math::
 
-   \frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
+   $\frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
    1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
-   {1+\frac{e^{-8\pi}} {1+\ldots} } } }
+   {1+\frac{e^{-8\pi}} {1+\ldots} } } }$
 
 Maxwell's Equations
 ---------------------
 
 .. math::
-
    \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
    \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\

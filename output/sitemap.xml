@@ -7,106 +7,110 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/2016/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/archive.html</loc>
-  <lastmod>2016-05-22T07:41:00Z</lastmod>
+  <lastmod>2016-05-22T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/categories/</loc>
-  <lastmod>2016-05-22T07:41:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/categories/mathjax/</loc>
-  <lastmod>2016-05-22T03:55:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/galleries/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/galleries/demo/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/listings/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/listings/__pycache__/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/listings/hello.py.html</loc>
-  <lastmod>2016-05-22T07:41:00Z</lastmod>
+  <lastmod>2016-05-22T08:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://henrykyper.github.io/blog_nikola/posts/display-ipythonbook-test/</loc>
+  <lastmod>2016-05-22T08:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/</loc>
-  <lastmod>2016-05-22T03:49:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/about-nikola/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/bootstrap-demo/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/charts/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/creating-a-theme/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/extending/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/handbook/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/internals/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/listings-demo/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/path-handlers/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/quickref/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/quickstart/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/slides-demo/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/social_buttons/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://henrykyper.github.io/blog_nikola/stories/theming/</loc>
-  <lastmod>2016-05-22T02:43:00Z</lastmod>
+  <lastmod>2016-05-22T08:20:00Z</lastmod>
  </url>
 </urlset>
