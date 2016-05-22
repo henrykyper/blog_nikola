@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kyper News</title><link>https://henrilin28.github.io/blog_nikola/</link><description>This is a demo sit for Kypernews</description><atom:link type="application/rss+xml" href="https://henrilin28.github.io/blog_nikola/rss.xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 22 May 2016 03:15:28 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://henrilin28.github.io/blog_nikola/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kyper News</title><link>http://henrykyper.github.io/blog_nikola/</link><description>This is a demo sit for Kypernews</description><atom:link type="application/rss+xml" rel="self" href="http://henrykyper.github.io/blog_nikola/rss.xml"></atom:link><language>en</language><lastBuildDate>Sun, 22 May 2016 07:41:27 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The very first nikola post</title><link>http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/</link><dc:creator>Henry Lin @ Kyper</dc:creator><description>&lt;div&gt;&lt;p&gt;This is the very first nikola post by henry lin. The purpose of this post is to test features in nikola.&lt;/p&gt;
+&lt;div class="section" id="code-block-section"&gt;
+&lt;h2&gt;Code Block Section&lt;/h2&gt;
+&lt;table class="codetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-1"&gt;1&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-2"&gt;2&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-3"&gt;3&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-4"&gt;4&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-5"&gt;5&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-6"&gt;6&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-7"&gt;7&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-8"&gt;8&lt;/a&gt;
+&lt;a href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/#rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-9"&gt;9&lt;/a&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;pre class="code python"&gt;&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-1"&gt;&lt;/a&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;sieve_of_eratosthenes&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-2"&gt;&lt;/a&gt;    &lt;span class="n"&gt;factors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;defaultdict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-3"&gt;&lt;/a&gt;    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;count&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-4"&gt;&lt;/a&gt;        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;factors&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-5"&gt;&lt;/a&gt;            &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;m&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;factors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;pop&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-6"&gt;&lt;/a&gt;                &lt;span class="n"&gt;factors&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;m&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;add&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;m&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-7"&gt;&lt;/a&gt;        &lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-8"&gt;&lt;/a&gt;            &lt;span class="n"&gt;factors&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;add&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;a name="rest_code_bb561e01a2154e6bb8b6e0e608c1b9ac-9"&gt;&lt;/a&gt;            &lt;span class="k"&gt;yield&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;p&gt;Here are some remarkable equations&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
-and build a site using it. Congratulations!&lt;/p&gt;
-&lt;p&gt;Next steps:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://henrilin28.github.io/blog_nikola/stories/handbook/"&gt;Read the manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://henrilin28.github.io/blog_nikola/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://henrilin28.github.io/blog_nikola/stories/listings-demo/"&gt;See a demo listing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://henrilin28.github.io/blog_nikola/stories/slides-demo/"&gt;See a demo slideshow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://henrilin28.github.io/blog_nikola/stories/dr-nikolas-vendetta/"&gt;See a demo of a longer text&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://henrilin28.github.io/blog_nikola/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>
+&lt;div class="section" id="an-identity-of-ramanujan"&gt;
+&lt;h2&gt;An Identity of Ramanujan&lt;/h2&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 22)&lt;/p&gt;
+&lt;p&gt;Title underline too short.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+An Identity of Ramanujan
+---------------------
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="math"&gt;
+\begin{equation*}
+\frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
+1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
+{1+\frac{e^{-8\pi}} {1+\ldots} } } }
+\end{equation*}
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="maxwell-s-equations"&gt;
+&lt;h2&gt;Maxwell's Equations&lt;/h2&gt;
+&lt;div class="math"&gt;
+\begin{align*}
+\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;amp; = \frac{4\pi}{c}\vec{\mathbf{j}} \\
+\nabla \cdot \vec{\mathbf{E}} &amp;amp; = 4 \pi \rho \\
+\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;amp; = \vec{\mathbf{0}} \\
+\nabla \cdot \vec{\mathbf{B}} &amp;amp; = 0
+\end{align*}
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>mathjax</category><guid>http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/</guid><pubDate>Sun, 22 May 2016 03:41:39 GMT</pubDate></item></channel></rss>
