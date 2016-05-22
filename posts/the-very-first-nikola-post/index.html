@@ -1,62 +1,90 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# fb: http://ogp.me/ns/fb# " lang="en">
+<html prefix="
+og: http://ogp.me/ns#
+article: http://ogp.me/ns/article#
+fb: http://ogp.me/ns/fb#
+" lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>The very first nikola post | Kyper News</title>
-<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bitter.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
 <link href="../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
 <link rel="canonical" href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/">
 <meta property="fb:app_id" content="">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="/assets/js/html5.js"></script><![endif]--><meta name="author" content="Henry Lin @ Kyper">
+<meta property="og:site_name" content="Kyper News">
+<meta property="og:title" content="The very first nikola post">
+<meta property="og:url" content="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/">
+<meta property="og:description" content="This is the very first nikola post by henry lin. The purpose of this post is to test features in nikola.
+
+Code Block Section
+1
+2
+3
+4
+5
+6
+7
+8
+9def sieve_of_eratosthenes():
+    factors = defaultdict(set">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2016-05-21T23:41:39-04:00">
 </head>
-<body class="home blog">
-    <div id="wrap" style="width:850px">
-        <div id="container" style="width:560px">
-            
-            
+<body>
+    <section class="social"><ul>
+<li><a href="../../index.html" title="Home"><i class="icon-home"></i></a></li>
+            <li><a href="../../archive.html" title="Archives"><i class="icon-folder-open-alt"></i></a></li>
+            <li><a href="../../categories/index.html" title="Tags"><i class="icon-tags"></i></a></li>
+            <li><a href="../../rss.xml" title="RSS"><i class="icon-rss"></i></a></li>
+            <li><a href="https://getnikola.com" title="About me"><i class="icon-user"></i></a></li>
+            <li><a href="https://twitter.com/getnikola" title="My Twitter"><i class="icon-twitter"></i></a></li>
+            <li><a href="https://github.com/getnikola" title="My Github"><i class="icon-github"></i></a></li>
+
+        </ul></section><section class="page-content"><div class="content" rel="main">
     <div class="post">
-    
-    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">The very first nikola post</a></h1>
+        <h1 class="p-name entry-title" itemprop="headline name">The very first nikola post</h1>
 
-        <div class="meta" style="background-color: rgb(234, 234, 234); ">
-        <span class="authordate">
-            Posted: <time class="published" datetime="2016-05-21T23:41:39-04:00">2016-05-21 23:41</time>
-               [<a href="index.rst" id="sourcelink">Source</a>]
-        </span>
-        <br><span class="tags">Tags: 
-                    <a class="tag" href="../../categories/mathjax/"><span>mathjax</span></a>
-                </span>
-                <br><span class="authordate">
+        <div class="meta">
+            <div class="authordate">
+                <time class="timeago" datetime="2016-05-21T23:41:39-04:00">2016-05-21 23:41</time>
             
+                      |  
+        <a href="index.rst" id="sourcelink">Source</a>
 
-        </span>
+            </div>
+            
         </div>
-    <div>
+        <div class="body">
+            <div>
 <p>This is the very first nikola post by henry lin. The purpose of this post is to test features in nikola.</p>
 <div class="section" id="code-block-section">
 <h2>Code Block Section</h2>
 <table class="codetable"><tr>
-<td class="linenos"><div class="linenodiv"><pre><a href="#rest_code_76fc997d22f3467889a46fb1dc102427-1">1</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-2">2</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-3">3</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-4">4</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-5">5</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-6">6</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-7">7</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-8">8</a>
-<a href="#rest_code_76fc997d22f3467889a46fb1dc102427-9">9</a></pre></div></td>
-<td class="code"><pre class="code python"><a name="rest_code_76fc997d22f3467889a46fb1dc102427-1"></a><span class="k">def</span> <span class="nf">sieve_of_eratosthenes</span><span class="p">():</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-2"></a>    <span class="n">factors</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">set</span><span class="p">)</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-3"></a>    <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="n">count</span><span class="p">(</span><span class="mi">2</span><span class="p">):</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-4"></a>        <span class="k">if</span> <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="p">]:</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-5"></a>            <span class="k">for</span> <span class="n">m</span> <span class="ow">in</span> <span class="n">factors</span><span class="o">.</span><span class="n">pop</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-6"></a>                <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="o">+</span><span class="n">m</span><span class="p">]</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-7"></a>        <span class="k">else</span><span class="p">:</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-8"></a>            <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="o">*</span><span class="n">n</span><span class="p">]</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
-<a name="rest_code_76fc997d22f3467889a46fb1dc102427-9"></a>            <span class="k">yield</span> <span class="n">n</span>
+<td class="linenos"><div class="linenodiv"><pre><a href="#rest_code_29d696405d444aab9cc0b588c84a3658-1">1</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-2">2</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-3">3</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-4">4</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-5">5</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-6">6</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-7">7</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-8">8</a>
+<a href="#rest_code_29d696405d444aab9cc0b588c84a3658-9">9</a></pre></div></td>
+<td class="code"><pre class="code python"><a name="rest_code_29d696405d444aab9cc0b588c84a3658-1"></a><span class="k">def</span> <span class="nf">sieve_of_eratosthenes</span><span class="p">():</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-2"></a>    <span class="n">factors</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">set</span><span class="p">)</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-3"></a>    <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="n">count</span><span class="p">(</span><span class="mi">2</span><span class="p">):</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-4"></a>        <span class="k">if</span> <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="p">]:</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-5"></a>            <span class="k">for</span> <span class="n">m</span> <span class="ow">in</span> <span class="n">factors</span><span class="o">.</span><span class="n">pop</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-6"></a>                <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="o">+</span><span class="n">m</span><span class="p">]</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-7"></a>        <span class="k">else</span><span class="p">:</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-8"></a>            <span class="n">factors</span><span class="p">[</span><span class="n">n</span><span class="o">*</span><span class="n">n</span><span class="p">]</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+<a name="rest_code_29d696405d444aab9cc0b588c84a3658-9"></a>            <span class="k">yield</span> <span class="n">n</span>
 </pre></td>
 </tr></table>
 <p>Here are some remarkable equations</p>
@@ -65,9 +93,9 @@
 <h2>An Identity of Ramanujan</h2>
 <div class="math">
 \begin{equation*}
-\frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
+$\frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} =
 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
-{1+\frac{e^{-8\pi}} {1+\ldots} } } }
+{1+\frac{e^{-8\pi}} {1+\ldots} } } }$
 \end{equation*}
 </div>
 </div>
@@ -83,10 +111,12 @@
 </div>
 </div>
 </div>
-    
-
-        
-        
+        </div>
+                <ul class="pager hidden-print">
+<li class="next">
+                <a href="../display-ipythonbook-test/" rel="next" title="Display Ipythonbook Test">Next post</a>
+            </li>
+        </ul>
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
@@ -110,44 +140,15 @@
 </script><div class="fb-comments" data-href="http://henrykyper.github.io/blog_nikola/posts/the-very-first-nikola-post/" data-width="470"></div>
 
 
-    
-            <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script><script type="text/x-mathjax-config">
-            MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
-            </script>
-</div>
-
-        </div>
-        <div id="sidebar">
-            <!--Sidebar content-->
-            <h1 id="blog-title">
-                <a href="http://henrykyper.github.io/blog_nikola/" title="Kyper News">Kyper News</a>
-            </h1>
-            
-            
-            <ul class="unstyled">
-<li>
-            
-                <li>
-<a href="../../archive.html">Archive</a>
-                </li>
-<li>
-<a href="../../categories/">Tags</a>
-                </li>
-<li>
-<a href="../../rss.xml">RSS feed</a>
-
-            </li>
-<li>
-            
-            
-            </ul>
-</div>
-        <div id="footer">
-            Contents © 2016         <a href="mailto:henry.lin@kyperdata.com">Henry Lin @ Kyper</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
-            
-        </div>
     </div>
-    
-            <script src="../../assets/js/all-nocdn.js"></script><script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
+                    <footer id="footer"><p>Contents © 2016         <a href="mailto:henry.lin@kyperdata.com">Henry Lin @ Kyper</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
+            
+        </footer>
+</div>
+    </section><script src="../../assets/js/jquery-1.10.2.min.js" type="text/javascript"></script><script src="../../assets/js/jquery.timeago.js" type="text/javascript"></script><script src="../../assets/js/mathjax.js" type="text/javascript"></script><script type="text/javascript">
+            $(function(){
+                $('.timeago').timeago();
+            });
+        </script>
 </body>
 </html>
